@@ -455,3 +455,7 @@ table {
 
 body {
   font-family: 'OpenSans', Arial, Helvetiva, sans-serif !important; }
+
+.row {
+  margin: 0 auto;
+  max-width: 80em; }
